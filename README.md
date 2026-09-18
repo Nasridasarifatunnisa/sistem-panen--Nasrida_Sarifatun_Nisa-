@@ -1,4 +1,3 @@
-# sistem-panen--Nasrida_Sarifatun_Nisa-
 # Sistem Pencatatan Hasil Panen Digital
 
 Aplikasi Python sederhana untuk mencatat hasil panen petani (nama petani,
